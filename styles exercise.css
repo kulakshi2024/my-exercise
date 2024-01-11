@@ -3,6 +3,12 @@ body
     background-color: rgb(189, 107, 107);
 }
 
+img{
+
+    width: 400px;
+    height: auto;
+}
+
 h1
 {
 
@@ -30,8 +36,5 @@ footer
     padding-bottom: 16px ;
     /* padding:top: top right bottom left;*/
     padding: 16px 24px 24px 16px;
-
-
-
 
 }
