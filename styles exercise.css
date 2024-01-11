@@ -1,0 +1,37 @@
+body
+{
+    background-color: rgb(189, 107, 107);
+}
+
+h1
+{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 36px;
+    color: brown;
+
+}
+
+p
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+
+}
+footer
+{
+    background-color: rgb(23, 29, 17);
+    font-size: 16px;
+    color: rgb(227, 20, 27);
+    padding-top: 16px;
+    padding-left:24px;
+    padding-right: 24px;
+    padding-bottom: 16px ;
+    /* padding:top: top right bottom left;*/
+    padding: 16px 24px 24px 16px;
+
+
+
+
+}
